@@ -50,7 +50,8 @@ breeds_life_expectancy = {
     "Scottish Terrier": 14,
     "Miniature Schnauzer": 14,
     "Standard Schnauzer": 14,
-    "Welsh Corgi": 12
+    "Welsh Corgi": 12,
+    "Australian Sheapard": 15,
 }
 
 # Function to calculate dog's age to human years
