@@ -52,6 +52,7 @@ breeds_life_expectancy = {
     "Standard Schnauzer": 14,
     "Welsh Corgi": 12,
     "Australian Sheapard": 15,
+    "Jack Russell Terrier": 16,
 }
 
 # Function to calculate dog's age to human years
